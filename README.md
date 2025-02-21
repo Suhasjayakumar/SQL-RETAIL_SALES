@@ -1,14 +1,4 @@
-<style>
-    body {
-        font-family: 'Times New Roman', serif;
-        font-size: 14px;
-    }
-    h1, h2, h3 {
-        font-size: 16px;
-    }
-</style>
-
-# Retail Sales Analysis SQL Project
+ Retail Sales Analysis SQL Project
 
 ## Project Overview
 **Project Title:** Retail Sales Analysis  
@@ -122,5 +112,5 @@ This project is designed to demonstrate SQL skills and techniques typically used
 - **Customer Insights:** Reports on top customers and unique customer counts per category.
 
 ## Conclusion
-This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+This project serves as a comprehensive introduction to SQL for business analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
